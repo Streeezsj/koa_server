@@ -1,0 +1,21 @@
+{
+  "name": "koa_server",
+  "version": "1.0.0",
+  "description": "如果对您对此项目有兴趣，可以点 \"Star\" 支持一下 谢谢！ ^_^",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "ws": "^7.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/penggang-home/koa_server.git"
+  }
+}
